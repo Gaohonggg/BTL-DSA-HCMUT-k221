@@ -1,2 +1,0 @@
-
-    			r->BLUE(stoi(num));
